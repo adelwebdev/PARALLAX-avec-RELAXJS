@@ -1,0 +1,49 @@
+/*# sourceMappingURL=style.css.map */
+@import url("https://fonts.googleapis.com/css?family=Righteous&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+}
+.header-pic {
+  background: url(./media/basic-pics/mountain-landscape-2.jpg) no-repeat
+    center/cover;
+  height: 100vh;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+  padding-top: 20rem;
+  font-size: 7rem !important;
+  color: aquamarine;
+  text-shadow: 2px 2px 2px #333;
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-family: "Righteous", cursive;
+}
+.main-pic {
+  background: url(./media/basic-pics/railay-beach-thailand-4k-wallpaper.jpg)
+    no-repeat center/cover;
+  height: 100vh;
+  width: 100%;
+}
+h2 {
+  text-align: center;
+  padding-top: 30rem;
+  font-size: 7rem !important;
+  color: red;
+  text-shadow: 2px 2px 2px #333;
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-family: "Righteous", cursive;
+}
+.footer {
+  height: 100vh;
+  display: flex;
+  padding: 24rem 7rem 0;
+}
+p {
+  padding: 2rem 3rem;
+}
